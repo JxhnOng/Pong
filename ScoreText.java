@@ -41,6 +41,12 @@ public class ScoreText {
             g.setFont(new Font("Roboto", Font.BOLD, 60));
             g.drawString("Game Over", window_Width / 2 + 30, window_Height + 200);
             g.setFont(new Font("Roboto", Font.PLAIN, 30));
+            if (score > score2) {
+                g.drawString("Left Player Wins!", window_Width / 2 + 30, window_Height + 300);
+            }
+            else if(score2 > score){
+                g.drawString("Right Player Wins!", window_Width / 2 + 30, window_Height + 300);
+            }
             g.drawString("Press [SPACE] to Play Again", window_Width / 2 + 30, window_Height + 350);
             //freezes the ball
             Ball.setXDirection(0);
