@@ -2,8 +2,6 @@
 //Date May 20th 2024
 //Description: The pupose of this class is to accept control to control the paddle on the left. As well as constructing it.
 
-package Guipart2.Pong;
-
 import java.awt.*;
 import java.awt.event.*;
 

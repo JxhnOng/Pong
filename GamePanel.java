@@ -3,9 +3,6 @@
 //Description: This is a pong game using java swing and awt.
 //The purpose of this class is to connect all the other classes to eachother as well as being responsible for putting objects onto the window.
 
-
-package Guipart2.Pong;
-
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;

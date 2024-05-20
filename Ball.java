@@ -2,9 +2,6 @@
 //Date May 20th 2024
 //Description: This class controls the ball's "physics" (there are no actual physics involved). As well as constructs the ball.
 
-
-package Guipart2.Pong;
-
 import java.awt.*;
 
 public class Ball extends Rectangle {

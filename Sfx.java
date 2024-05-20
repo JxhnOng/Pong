@@ -2,7 +2,6 @@
 //Date May 20th 2024
 //Description: The pupose of this class is to play sounds whenever it meets the conditions to play it. Such as the ball hitting a paddle.
 
-package Guipart2.Pong;
 
 import java.io.InputStream;
 

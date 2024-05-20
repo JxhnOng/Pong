@@ -2,7 +2,6 @@
 //Date May 20th 2024
 //Description: The pupose of this class is to display the text seen on the windows such as, the score, the menu text and the game over screen. It is also in charge of keeping track of the score
 
-package Guipart2.Pong;
 
 import java.awt.Color;
 import java.awt.Font;
